@@ -1,0 +1,11 @@
+{
+  "name": "mongo-writer",
+  "version": "1.0.0",
+  "main": "Writer.js",
+  "repository": "git@github.com:shovity/mongo-writer.git",
+  "author": "shovity <shovity@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test"
+  }
+}
